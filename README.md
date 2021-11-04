@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Fawaz05
-- 👀 I’m interested in Astrophysics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Data science
 - 📫 How to reach me ... imfawaz10@gmail.com
